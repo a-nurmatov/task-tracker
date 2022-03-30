@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting wit BA",
-      "day": "April 5th at 12:30pm",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Meeting wit BA",
-      "day": "April 5th at 12:30pm",
-      "reminder": true
+      "text": "Go to the pdp",
+      "day": "2:30pm 28th Mar, 2022",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
